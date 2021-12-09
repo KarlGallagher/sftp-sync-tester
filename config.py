@@ -24,5 +24,5 @@ class Configuration:
     SLEEP_TIMEOUT_MS = 100
     SFTP_HOST = "localhost"
     SFTP_PORT = 22
-    SFTP_USERNAME = "aperia"
-    SFTP_PASSWORD = "aperia"
+    SFTP_USERNAME = "jbloggs"
+    SFTP_PASSWORD = "do not use this!"
